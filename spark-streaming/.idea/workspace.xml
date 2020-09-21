@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30edc0f3-c704-4954-bba5-411ce0a67d86" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../e2e-airline-validator/airlines/validator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../e2e-airline-validator/airlines/validator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../health-insurance-fraud/python/insurance/beneficiary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../health-insurance-fraud/python/insurance/beneficiary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hwc-read-write/src/main/python/direct-read.py" beforeDir="false" afterPath="$PROJECT_DIR$/../hwc-read-write/src/main/python/direct-read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-spark-2/src/main/scala/org/cloudera/qe/e2es/Create.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-spark-2/src/main/scala/org/cloudera/qe/e2es/Create.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-spark-2/src/main/scala/org/cloudera/qe/e2es/DEXStreaming.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-spark-2/src/main/scala/org/cloudera/qe/e2es/DEXStreaming.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-spark-2/src/main/scala/org/cloudera/qe/e2es/SampleSpark.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-spark-2/src/main/scala/org/cloudera/qe/e2es/SampleSpark.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-spark-2/src/main/scala/org/cloudera/qe/e2es/TwitterStructuredStreaming.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-spark-2/src/main/scala/org/cloudera/qe/e2es/TwitterStructuredStreaming.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample-spark-2/src/main/scala/org/cloudera/qe/e2es/spark/SampleSparkExample3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../sample-spark-2/src/main/scala/org/cloudera/qe/e2es/spark/SampleSparkExample3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-hbase/src/main/scala/org/cloudera/e2e/spark/HBaseRead.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-hbase/src/main/scala/org/cloudera/e2e/spark/HBaseRead.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spark-hbase/src/main/scala/org/cloudera/e2e/spark/HBaseWrite.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../spark-hbase/src/main/scala/org/cloudera/e2e/spark/HBaseWrite.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hodHytUbSEAWWIu3TVWDNnIcwU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../santhosh-repo/github/spark-sql-perf" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../santhosh-repo/spark-sql-perf" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30edc0f3-c704-4954-bba5-411ce0a67d86" name="Default Changelist" comment="" />
+      <created>1600681294528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600681294528</updated>
+    </task>
+    <servers />
+  </component>
+</project>
